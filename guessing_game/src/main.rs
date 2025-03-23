@@ -26,7 +26,5 @@ fn main() {
             }
             Ordering::Greater => println!("Too big!"),
         }
-
-        guess_text.clear();
     }
 }
